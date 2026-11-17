@@ -8,6 +8,7 @@ Files:
 - `jobs.md` — board of all jobs (one line each)
 - `jobs/` — one file per job with payments, cost breakdown and profit (copy `jobs/_TEMPLATE.md`)
 - `parts-and-suppliers.md` — parts on order and supplier contacts
+- `monthly-costs.md` — recurring monthly costs (rent share, utilities, etc.)
 - `expenses.md` — expenses for this LLC only
 
 If a job is on one of the rental LLC's cars, it is an inter-company job — also log it in

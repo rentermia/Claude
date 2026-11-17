@@ -15,7 +15,13 @@
 | Expense | Amount | Per month |
 |---|---|---|
 | Employee | $600 / week | **~$2,600** (52 weeks ÷ 12) |
-| _Location rent, FPL, Wi-Fi, phone — waiting on which business pays_ | | |
+| Location rent — 50% share | $10,275 total | $5,137.50 |
+| FPL — 50% share | ~$1,100 total | ~$550 |
+| Wi-Fi — 50% share | $75 total | $37.50 |
+| Company phone — 50% share | ~$80 total | ~$40 |
+| **Total operating** | | **~$8,365** |
+
+Location costs are shared 50/50 with Ludo Auto — see `../between-businesses/log.md`.
 
 Partner cars: no payment or insurance cost to Renter — you only pay the owner's share per rental.
 
@@ -34,6 +40,7 @@ Partner cars: no payment or insurance cost to Renter — you only pay the owner'
 | Partner cars (your share) | $1,975 | — | **+$1,975** |
 | **Subtotal from cars** | | | **+$11,086** |
 | Employee (~$600/week) | | $2,600 | **−$2,600** |
-| **Renter total so far** | | | **+$8,486** |
+| Location share (rent, FPL, Wi-Fi, phone) | | $5,765 | **−$5,765** |
+| **Renter total so far** | | | **+$2,721** |
 
-_Not yet included: location rent, FPL, Wi-Fi, phone, cleaning, fuel, maintenance, tolls, marketing._
+_Not yet included: cleaning, fuel, maintenance, tolls, marketing._

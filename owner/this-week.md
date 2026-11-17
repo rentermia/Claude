@@ -13,5 +13,8 @@
 - [ ] Brianna's job — collect $12,000 balance at pickup
 
 ## Owner
+- [ ] Transfer the location lease from the previous LLC to **Ludo Auto LLC**
+- [ ] Move FPL, Wi-Fi and phone accounts to Ludo Auto LLC too
+- [ ] Set up a written 50/50 space-sharing agreement between Ludo Auto and Renter
 - [ ] Consider separate phone numbers for Renter and Ludo Auto
 - [ ] Ask accountant whether Renter must charge sales tax + rental surcharge on every rental
