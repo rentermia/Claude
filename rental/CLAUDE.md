@@ -7,6 +7,7 @@ Files:
 - `tasks.md` — to-dos
 - `fleet.md` — every vehicle, status, maintenance
 - `rental-log.md` — every rental: dates, price, tax, owner payout, broker fee, net
+- `monthly-costs.md` — car payments + insurance for own cars, and each car's profit/loss for the month
 - `expenses.md` — expenses for this LLC only
 
 When drafting customer messages, use the rental business name and its policies

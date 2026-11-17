@@ -5,15 +5,17 @@
 Status as of Mon Nov 16, 2026.
 
 ## Renter's own cars (7)
-| # | Year | Vehicle | Color | Status | Notes |
-|---|---|---|---|---|---|
-| 1 | 2026 | Mercedes-Maybach GLS 600 | | Rented Nov 16–19 | |
-| 2 | 2025 | Mercedes-AMG SL63 | | Available? | |
-| 3 | 2026 | Chevrolet Corvette Z06 | | Back Nov 16 | |
-| 4 | 2025 | Lamborghini Urus SE | | Rented Nov 4 – ~Dec 4 | Monthly rental |
-| 5 | 2025 | Cadillac Escalade-V | | Available (back Nov 16) | Customer has 3-day credit |
-| 6 | 2020 | Mercedes-Benz G63 | | Rented Nov 14–17 | |
-| 7 | 2026 | Cadillac Escalade ESV (own) | | Rented Nov 14–21 | Rented out from time to time |
+| # | Year | Vehicle | Color | Monthly cost (payment + insurance) | Status | Notes |
+|---|---|---|---|---|---|---|
+| 1 | 2026 | Mercedes-Maybach GLS 600 | | $3,812 | Rented Nov 16–19 | |
+| 2 | 2025 | Mercedes-AMG SL63 | | $3,350 | Available? | |
+| 3 | 2026 | Chevrolet Corvette Z06 | | $3,450 | Back Nov 16 | |
+| 4 | 2025 | Lamborghini Urus SE | | $5,612 | Rented Nov 4 – ~Dec 4 | Monthly rental |
+| 5 | 2025 | Cadillac Escalade-V | | $4,300 | Available (back Nov 16) | Customer has 3-day credit |
+| 6 | 2020 | Mercedes-Benz G63 | | $3,750 | Rented Nov 14–17 | |
+| 7 | 2026 | Cadillac Escalade ESV (own) | | $2,215 | Rented Nov 14–21 | Rented out from time to time |
+
+**Total for own cars: $26,489/month** — details in `monthly-costs.md`
 
 ## Partner cars (17)
 | # | Year | Vehicle | Color | Owner payout | Status | Notes |
