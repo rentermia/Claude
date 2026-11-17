@@ -20,5 +20,5 @@
 - Mileage limit:
 - Fuel policy:
 - Late return fee:
-- Early return: customer may get a credit for unused days (e.g. Escalade ESV, Nov 2026)
+- Early return: customer may get a credit for unused days (e.g. 2025 Escalade-V, Nov 2026)
 - Cancellation policy:
