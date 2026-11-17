@@ -1,11 +1,12 @@
-# Job #004 — Sunny — 2021 Mercedes-Maybach GLS 600
+# Job #004 — Sonny — 2021 Mercedes-Maybach GLS 600
 
 **Status:** ✅ Picked up & paid — completed week of Nov 9, 2026
+**Customer:** Sonny (last name unknown)
 **Vehicle:** 2021 Mercedes-Maybach GLS 600
 
 ## Work
 - Removed the old wrap that was on the vehicle
-- New wrap _(confirm: wrap / PPF / other)_
+- New full vinyl wrap
 
 ## What the client pays
 | | Amount |
