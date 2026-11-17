@@ -4,8 +4,8 @@ The owner runs **two separate businesses**, each its own LLC. They are NOT one c
 
 | Folder | Business | Legal entity |
 |---|---|---|
-| `rental/` | Car rental business | _[Rental LLC legal name]_ |
-| `custom-shop/` | Car customization shop | _[Shop LLC legal name]_ |
+| `rental/` | Car rental — **Renter** | Renter INTL LLC |
+| `custom-shop/` | Car customization — **Ludo Auto** | Ludo Auto LLC |
 | `owner/` | The owner's personal planning across both | (not a business) |
 | `between-businesses/` | Any work, money or cars that move between the two LLCs | — |
 
@@ -29,3 +29,9 @@ The owner runs **two separate businesses**, each its own LLC. They are NOT one c
 - "Log an expense" → that business's `expenses.md`
 - "What do I have going on?" → summarize `owner/this-week.md` + both `tasks.md` files, grouped by business
 - Deadlines (taxes, registrations, insurance renewals, LLC annual reports) → `owner/deadlines.md`
+
+## Quick facts
+- Both businesses currently share one phone: 786-462-2666
+- Renter: rentermia.com · Instagram @Renter
+- Ludo Auto: ludoauto.com · Instagram @Ludo
+- Dates: when the owner says "today/yesterday/Saturday", convert to real dates in the logs.
