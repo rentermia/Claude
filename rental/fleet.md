@@ -18,7 +18,7 @@ Status as of Mon Nov 16, 2026.
 ## Partner cars (17)
 | # | Year | Vehicle | Color | Owner payout / day | Status | Notes |
 |---|---|---|---|---|---|---|
-| 8 | 2026 | Cadillac Escalade ESV (partner) | | ? | | Confirm this car exists separately from your own ESV |
+| 8 | 2026 | Cadillac Escalade ESV (partner) | | ? | Available? | Separate from your own 2026 ESV |
 | 9 | 2019 | Lamborghini Urus | Black | $420 | Available (back Nov 16) | |
 | 10 | 2019 | Lamborghini Urus | Gray | $420 | Booked Nov 17–19 | |
 | 11 | 2023 | Lamborghini Urus S | Nardo Gray | ? | | |
