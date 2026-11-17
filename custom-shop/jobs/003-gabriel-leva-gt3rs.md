@@ -4,7 +4,7 @@
 **Vehicle:** Porsche 911 GT3 RS _(year?)_
 
 ## Work
-- _(wrap / PPF / other? — confirm)_
+- Full brushed chrome vinyl wrap
 
 ## What the client pays
 | | Amount |
