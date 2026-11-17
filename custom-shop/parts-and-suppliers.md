@@ -3,7 +3,7 @@
 ## Parts on order
 | Ordered | Supplier | Part | For job # | Cost | ETA | Received? |
 |---|---|---|---|---|---|---|
-| | | Fellers | Wrap / film materials | | | Refund of $1,450 pending (job 003) |
+| Fellers | Wrap / film materials | | | $1,450 refund pending (job 003) | | |
 
 ## Refunds / reimbursements owed to Ludo Auto
 | Date | From | What | Amount | For job # | Received? |
@@ -13,4 +13,4 @@
 ## Supplier contacts
 | Supplier | What they sell | Contact | Account # location | Notes |
 |---|---|---|---|---|
-| | | | | |
+| Fellers | Wrap / film materials | | | $1,450 refund pending (job 003) |
