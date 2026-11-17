@@ -11,6 +11,7 @@
 ## [SHOP] Ludo Auto
 - [ ] Close Raul Gonzalez — G63 Brabus + interior ($55,800). Starlight included either way — collect deposit
 - [ ] Brianna's job — collect $12,000 balance at pickup
+- [ ] Follow up on $1,450 reimbursement (material + shipping) for Gabriel Leva's GT3 RS job
 
 ## Owner
 - [ ] Transfer the location lease from the previous LLC to **Ludo Auto LLC**
