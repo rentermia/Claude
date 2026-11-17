@@ -6,7 +6,7 @@
 - [ ] Maybach GLS 600 due back Thu Nov 19
 - [ ] Own Escalade ESV due back Sat Nov 21
 - [ ] Gray Urus due back Thu Nov 19
-- [ ] Record the Escalade ESV customer's 3-day credit (name + contact)
+- [ ] Record the Escalade-V customer's 3-day credit (name + contact)
 - [ ] Fill in owner payout per day for each partner car in `rental/fleet.md`
 
 ## [SHOP] Ludo Auto

@@ -11,14 +11,14 @@ Status as of Mon Nov 16, 2026.
 | 2 | 2025 | Mercedes-AMG SL63 | | Available? | |
 | 3 | 2026 | Chevrolet Corvette Z06 | | Back Nov 16 | |
 | 4 | 2025 | Lamborghini Urus SE | | Rented Nov 4 – ~Dec 4 | Monthly rental |
-| 5 | 2025 | Cadillac Escalade-V | | Available? | |
+| 5 | 2025 | Cadillac Escalade-V | | Available (back Nov 16) | Customer has 3-day credit |
 | 6 | 2020 | Mercedes-Benz G63 | | Rented Nov 14–17 | |
 | 7 | 2026 | Cadillac Escalade ESV (own) | | Rented Nov 14–21 | Rented out from time to time |
 
 ## Partner cars (17)
 | # | Year | Vehicle | Color | Owner payout / day | Status | Notes |
 |---|---|---|---|---|---|---|
-| 8 | 2026 | Cadillac Escalade ESV (partner) | | ? | Available (back Nov 16) | Customer has 3-day credit |
+| 8 | 2026 | Cadillac Escalade ESV (partner) | | ? | | Confirm this car exists separately from your own ESV |
 | 9 | 2019 | Lamborghini Urus | Black | $420 | Available (back Nov 16) | |
 | 10 | 2019 | Lamborghini Urus | Gray | $420 | Booked Nov 17–19 | |
 | 11 | 2023 | Lamborghini Urus S | Nardo Gray | ? | | |

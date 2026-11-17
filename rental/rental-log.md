@@ -18,7 +18,7 @@ Sales tax is shown separately — it is owed to the state, not income.
 | Sat Nov 14 | Tue Nov 17 | G63 2020 · Mine | 3 | $1,200 | ? | — | ? | $1,200 | |
 | Fri Nov 13 | Mon Nov 16 | Corvette Z06 · Mine | 3 | $1,200 | ? | — | ? | $1,200 | |
 | Thu Nov 12 | Fri Nov 13 | Corvette Z06 · Mine | 1 | $400 | ? | — | ? | $400 | |
-| Thu Nov 12 | Mon Nov 16 | Escalade ESV (partner) | 4 used of 7 | $2,800 (paid for 7) | ? | ? | ? | ? | Returned early — **3-day credit owed** on customer's next Miami trip |
+| Thu Nov 12 | Mon Nov 16 | Escalade-V 2025 · Mine | 4 used of 7 | $2,800 (paid for 7) | ? | — | ? | $2,800 | Returned early — **3-day credit owed** on customer's next Miami trip |
 | Mon Nov 9 | Sat Nov 14 | G63 2020 · Mine | 5 | $1,800 | ? | — | ? | $1,800 | |
 | ~week of Nov 2 | | G63 2020 · Mine | 4 | $1,500 | ? | — | ? | $1,500 | Exact dates unknown |
 | ~week of Nov 2 | | Corvette Z06 · Mine | 3 | $1,500 | ? | — | ? | $1,500 | Exact dates unknown |
@@ -37,13 +37,13 @@ Sales tax is shown separately — it is owed to the state, not income.
 | G63 2020 | Mine | 3 | $4,500 | $4,500 |
 | Corvette Z06 | Mine | 3 | $3,100 | $3,100 |
 | Escalade ESV (own) | Mine | 1 | $2,200 | $2,200 |
+| Escalade-V 2025 | Mine | 1 | $2,800 | $2,800 |
 | SL63 2025 | Mine | 2 | $1,150 | $1,150 |
-| **Own cars subtotal** | | **15** | **$32,800** | **$32,800** |
+| **Own cars subtotal** | | **16** | **$35,600** | **$35,600** |
 | Urus 2019 Gray | Partner | 2 | $3,000 | $1,465 |
-| Escalade ESV (partner) | Partner | 1 | $2,800 | ? |
 | Urus 2019 Black | Partner | 2 | $1,800 | $510 |
-| **Partner cars subtotal** | | **5** | **$7,600** | **$1,975 + ESV** |
-| **Total** | | **20** | **$40,400** | **$34,775 + ESV** |
+| **Partner cars subtotal** | | **4** | **$4,800** | **$1,975** |
+| **Total** | | **20** | **$40,400** | **$37,575** |
 
 Paid out so far: owners $2,100 · brokers $725.
 Own-car net assumes no broker fees — update if a broker was involved.
@@ -51,5 +51,4 @@ Own-car net assumes no broker fees — update if a broker was involved.
 ### Open questions
 - Was sales tax charged on the other rentals, or is it included in the price?
 - Were any of the own-car rentals booked through a broker? If so, how much?
-- Partner Escalade ESV (Nov 12): owner payout and broker fee?
 - The Urus SE's $16,000 covers Nov 4–Dec 4 — count it all in November, or split it?
