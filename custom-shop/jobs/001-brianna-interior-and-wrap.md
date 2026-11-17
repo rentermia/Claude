@@ -1,7 +1,7 @@
-# Job #001 — Brianna — Full interior color change + exterior vinyl wrap
+# Job #001 — Brianna — 2023 G63 — Full interior color change + exterior vinyl wrap
 
 **Status:** In progress
-**Vehicle:** _(year/make/model?)_ · **Due:**
+**Vehicle:** 2023 Mercedes-Benz G63 · **Due:**
 
 ## Work
 - Full interior color change, including seat belts

@@ -1,13 +1,13 @@
-# Job #002 — Raul Gonzalez — Mercedes-Benz G63 Brabus kit + interior
+# Job #002 — Raul Gonzalez — 2022 G63 Brabus kit + interior
 
 **Status:** Quote sent, closing the deal
-**Vehicle:** Mercedes-Benz G63 _(year?)_
+**Vehicle:** 2022 Mercedes-Benz G63
 
 ## Work
 - Full Brabus kit with emblems and side steps (installed)
 - Wheels
 - Interior color change
-- Optional: Starlight headliner
+- Starlight headliner — **included in the price**; client may choose to add it or skip it, price stays $55,800
 
 ## What the client pays
 | | Amount |
@@ -33,5 +33,3 @@
 | **Profit** | **$32,100** | **$30,900 – $31,100** |
 | Margin | 57.5% | ~55.6% |
 
-## Open question
-- Is Starlight already included in the $55,800, or would it be extra on top?
