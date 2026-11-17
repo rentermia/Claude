@@ -1,6 +1,6 @@
 # Job #003 — Gabriel Leva — Porsche 911 GT3 RS
 
-**Status:** In progress · **Paid in full**
+**Status:** In progress — material arrived, work underway · **Paid in full**
 **Vehicle:** Porsche 911 GT3 RS _(year?)_
 
 ## Work
@@ -24,7 +24,7 @@
 ## ⚠️ Reimbursement owed to Ludo Auto
 | Item | Amount | From | Status |
 |---|---|---|---|
-| Material #3 ($1,250) + shipping ($200) | **$1,450** | _(supplier? confirm)_ | Waiting |
+| Material #3 ($1,250) + shipping ($200) | **$1,450** | Fellers | Waiting — refund once the order arrives |
 
 If the $1,450 is NOT reimbursed, it becomes a cost on this job.
 
