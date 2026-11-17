@@ -17,7 +17,7 @@ Status flow: Quote → Deposit paid → Parts ordered → In progress → Ready 
 
 | Job # | Customer | Vehicle | Work | Completed | Price | Cost | Profit |
 |---|---|---|---|---|---|---|---|
-| [004](jobs/004-sunny-maybach-gls600.md) | Sunny | 2021 Maybach GLS 600 | Old wrap removal + new wrap | Week of Nov 9 | $5,000 | $3,040 | $1,960 |
+| [004](jobs/004-sonny-maybach-gls600.md) | Sonny | 2021 Maybach GLS 600 | Old wrap removal + new vinyl wrap | Week of Nov 9 | $5,000 | $3,040 | $1,960 |
 
 **November completed so far:** 1 job · $5,000 revenue · **$1,960 profit**
 
