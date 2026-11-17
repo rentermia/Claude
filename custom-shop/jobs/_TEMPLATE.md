@@ -21,6 +21,7 @@
 ## What it costs Ludo Auto
 | Item | Vendor | Cost | Paid? |
 |---|---|---|---|
+| Installer: [name] | | $ | |
 | | | $ | |
 | **Total cost** | | **$** | |
 

@@ -16,3 +16,5 @@ If a job is on one of the rental LLC's cars, it is an inter-company job — also
 
 For every job, track: price to client, payments received, balance due at pickup, each cost
 line, total cost, profit and margin. Update both the job file and the line on `jobs.md`.
+
+Installers are paid per job. For every job, ask the owner what each installer was paid and add it as a cost line on the job sheet (installer name + amount).
