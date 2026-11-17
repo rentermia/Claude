@@ -7,7 +7,6 @@
 - [ ] Own Escalade ESV due back Sat Nov 21
 - [ ] Gray Urus due back Thu Nov 19
 - [ ] Record the Escalade-V customer's 3-day credit (name + contact)
-- [ ] Fill in owner payout per day for each partner car in `rental/fleet.md`
 
 ## [SHOP] Ludo Auto
 - [ ] Close Raul Gonzalez — G63 Brabus + interior ($55,800). Starlight included either way — collect deposit
@@ -15,3 +14,4 @@
 
 ## Owner
 - [ ] Consider separate phone numbers for Renter and Ludo Auto
+- [ ] Ask accountant whether Renter must charge sales tax + rental surcharge on every rental

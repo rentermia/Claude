@@ -12,7 +12,9 @@
 - **Insurance carrier & policy renewal date:**
 
 ## Rental policies
-- Sales tax charged: 13% (used on the gray Urus booking 11/17 — confirm if it applies to all rentals)
+- Sales tax: 13% charged on the gray Urus booking 11/17 only; not charged on other rentals so far
+- Partner owners: paid ~50–60% of the rental price
+- Brokers: only on partner-car rentals so far
 - Minimum age:
 - Security deposit:
 - Mileage limit:

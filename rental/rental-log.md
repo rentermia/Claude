@@ -6,28 +6,28 @@ Sales tax is shown separately — it is owed to the state, not income.
 
 ## November 2026
 
-| Start | Return | Vehicle | Days | Price (pre-tax) | Tax | Owner payout | Broker | Net to Renter | Notes |
+| Start | Return | Vehicle | Days | Price | Tax | Owner payout | Broker | Net to Renter | Notes |
 |---|---|---|---|---|---|---|---|---|---|
 | Tue Nov 17 | Thu Nov 19 | Urus 2019 Gray | 2 | $2,000 ($1,000/day) | $260 (13%) | $840 | — (direct client) | **$1,160** | Customer pays $2,260 total |
-| Mon Nov 16 | Thu Nov 19 | Maybach GLS 600 · Mine | 3 | $2,100 ($700/day) | ? | — | ? | $2,100 | |
-| Sun Nov 15 | Mon Nov 16 | Urus 2019 Black | 1 | $800 | ? | $420 | $175 | **$205** | |
-| Sat Nov 14 | Sat Nov 21 | Escalade ESV (own) · Mine | 7 | $2,200 | ? | — | ? | $2,200 | |
-| Sat Nov 14 | Sun Nov 15 | Urus 2019 Black | 1 | $1,000 | ? | $420 | $275 | **$305** | |
-| Sat Nov 14 | Sun Nov 15 | Urus 2019 Gray | 1 | $1,000 | ? | $420 | $275 | **$305** | |
-| Sat Nov 14 | Sun Nov 15 | Maybach GLS 600 · Mine | 1 | $700 | ? | — | — | **$700** | |
-| Sat Nov 14 | Tue Nov 17 | G63 2020 · Mine | 3 | $1,200 | ? | — | ? | $1,200 | |
-| Fri Nov 13 | Mon Nov 16 | Corvette Z06 · Mine | 3 | $1,200 | ? | — | ? | $1,200 | |
-| Thu Nov 12 | Fri Nov 13 | Corvette Z06 · Mine | 1 | $400 | ? | — | ? | $400 | |
-| Thu Nov 12 | Mon Nov 16 | Escalade-V 2025 · Mine | 4 used of 7 | $2,800 (paid for 7) | ? | — | ? | $2,800 | Returned early — **3-day credit owed** on customer's next Miami trip |
-| Mon Nov 9 | Sat Nov 14 | G63 2020 · Mine | 5 | $1,800 | ? | — | ? | $1,800 | |
-| ~week of Nov 2 | | G63 2020 · Mine | 4 | $1,500 | ? | — | ? | $1,500 | Exact dates unknown |
-| ~week of Nov 2 | | Corvette Z06 · Mine | 3 | $1,500 | ? | — | ? | $1,500 | Exact dates unknown |
-| Wed Nov 4 | ~Fri Dec 4 | Urus SE 2025 · Mine | 1 month | $16,000 | ? | — | ? | $16,000 | Monthly rental |
-| Nov (no date) | | Maybach GLS 600 · Mine | 4 | $2,000 | ? | — | ? | $2,000 | |
-| Nov (no date) | | Maybach GLS 600 · Mine | 1 | $550 | ? | — | ? | $550 | |
-| Nov (no date) | | Maybach GLS 600 · Mine | 1 | $500 | ? | — | ? | $500 | |
-| Nov (no date) | | SL63 2025 · Mine | 2 | $800 | ? | — | ? | $800 | |
-| Nov (no date) | | SL63 2025 · Mine | 1 | $350 | ? | — | ? | $350 | |
+| Mon Nov 16 | Thu Nov 19 | Maybach GLS 600 · Mine | 3 | $2,100 ($700/day) | — | — | — | $2,100 | |
+| Sun Nov 15 | Mon Nov 16 | Urus 2019 Black | 1 | $800 | — | $420 | $175 | **$205** | |
+| Sat Nov 14 | Sat Nov 21 | Escalade ESV (own) · Mine | 7 | $2,200 | — | — | — | $2,200 | |
+| Sat Nov 14 | Sun Nov 15 | Urus 2019 Black | 1 | $1,000 | — | $420 | $275 | **$305** | |
+| Sat Nov 14 | Sun Nov 15 | Urus 2019 Gray | 1 | $1,000 | — | $420 | $275 | **$305** | |
+| Sat Nov 14 | Sun Nov 15 | Maybach GLS 600 · Mine | 1 | $700 | — | — | — | **$700** | |
+| Sat Nov 14 | Tue Nov 17 | G63 2020 · Mine | 3 | $1,200 | — | — | — | $1,200 | |
+| Fri Nov 13 | Mon Nov 16 | Corvette Z06 · Mine | 3 | $1,200 | — | — | — | $1,200 | |
+| Thu Nov 12 | Fri Nov 13 | Corvette Z06 · Mine | 1 | $400 | — | — | — | $400 | |
+| Thu Nov 12 | Mon Nov 16 | Escalade-V 2025 · Mine | 4 used of 7 | $2,800 (paid for 7) | — | — | — | $2,800 | Returned early — **3-day credit owed** on customer's next Miami trip |
+| Mon Nov 9 | Sat Nov 14 | G63 2020 · Mine | 5 | $1,800 | — | — | — | $1,800 | |
+| ~week of Nov 2 | | G63 2020 · Mine | 4 | $1,500 | — | — | — | $1,500 | Exact dates unknown |
+| ~week of Nov 2 | | Corvette Z06 · Mine | 3 | $1,500 | — | — | — | $1,500 | Exact dates unknown |
+| Wed Nov 4 | ~Fri Dec 4 | Urus SE 2025 · Mine | 1 month | $16,000 | — | — | — | $16,000 | Monthly rental |
+| Nov (no date) | | Maybach GLS 600 · Mine | 4 | $2,000 | — | — | — | $2,000 | |
+| Nov (no date) | | Maybach GLS 600 · Mine | 1 | $550 | — | — | — | $550 | |
+| Nov (no date) | | Maybach GLS 600 · Mine | 1 | $500 | — | — | — | $500 | |
+| Nov (no date) | | SL63 2025 · Mine | 2 | $800 | — | — | — | $800 | |
+| Nov (no date) | | SL63 2025 · Mine | 1 | $350 | — | — | — | $350 | |
 
 ### November totals so far (pre-tax, includes the Nov 17 booking)
 | Vehicle | Owner | Rentals | Revenue | Net to Renter |
@@ -46,9 +46,7 @@ Sales tax is shown separately — it is owed to the state, not income.
 | **Total** | | **20** | **$40,400** | **$37,575** |
 
 Paid out so far: owners $2,100 · brokers $725.
-Own-car net assumes no broker fees — update if a broker was involved.
+No brokers on own-car rentals. Sales tax was only charged on the Nov 17 gray Urus.
 
 ### Open questions
-- Was sales tax charged on the other rentals, or is it included in the price?
-- Were any of the own-car rentals booked through a broker? If so, how much?
 - The Urus SE's $16,000 covers Nov 4–Dec 4 — count it all in November, or split it?
