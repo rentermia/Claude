@@ -11,6 +11,12 @@
 | 2026 Escalade ESV | $1,840 | $375 | **$2,215** |
 | **Total** | **$24,640** | **$1,849** | **$26,489** |
 
+## Renter operating expenses
+| Expense | Amount | Per month |
+|---|---|---|
+| Employee | $600 / week | **~$2,600** (52 weeks ÷ 12) |
+| _Location rent, FPL, Wi-Fi, phone — waiting on which business pays_ | | |
+
 Partner cars: no payment or insurance cost to Renter — you only pay the owner's share per rental.
 
 ## November 2026 — is each car paying for itself? (month in progress)
@@ -26,6 +32,8 @@ Partner cars: no payment or insurance cost to Renter — you only pay the owner'
 | SL63 2025 | $1,150 | $3,350 | **−$2,200** |
 | **Own cars total** | **$35,600** | **$26,489** | **+$9,111** |
 | Partner cars (your share) | $1,975 | — | **+$1,975** |
-| **Renter total** | | | **+$11,086** |
+| **Subtotal from cars** | | | **+$11,086** |
+| Employee (~$600/week) | | $2,600 | **−$2,600** |
+| **Renter total so far** | | | **+$8,486** |
 
-_Before other expenses (cleaning, fuel, maintenance, tolls, marketing, etc.)._
+_Not yet included: location rent, FPL, Wi-Fi, phone, cleaning, fuel, maintenance, tolls, marketing._
